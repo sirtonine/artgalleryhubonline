@@ -1,0 +1,426 @@
+{
+  "settings": {
+    "name": "artgalleryhubonline",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.6",
+    "siteFonts": [],
+    "uniqCompNum": 19,
+    "versionPublish": "4.9.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Art Gallery Hub",
+          "text": "Unleash Your Creative Journey",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-5",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Welcome",
+          "text": "<p>The ultimate destination for art enthusiasts and creators alike. Immerse yourself in a captivating world where creativity knows no bounds. Our online platform is designed to connect artists, collectors, and art enthusiasts from around the globe, fostering a vibrant community that celebrates the power of artistic expression.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-7"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/headeriberian-1-1400x467.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "IBERIANLOVE",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE MORE<br></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/headerfashiondesigner-600x200.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "MYSTERIOUSWORLD",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "HARRYPOSTER",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "ILOVEITALY",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-g",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "25px"
+            }
+          }
+        }
+      ]
+    },
+    "IBERIANLOVE.html": {
+      "settings": {
+        "title": "IBERIANLOVE",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/headeriberian-1-1400x467.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-h"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "IBERIANLOVE",
+          "meta": "IberianLove, where the rich heritage, vibrant cultures, and captivating landscapes of Spain and Portugal come together in an extraordinary celebration of passion and beauty.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "text": "<p>Immerse yourself in the enchanting world of IberianLove and unlock the secrets of these two extraordinary countries. From the flamenco rhythms that echo through the streets of Seville to the soul-stirring fado melodies that resonate in the alleys of Lisbon, prepare to be captivated by the music, dance, and art that embody the very essence of Spain and Portugal.<br></p><p>Embark on a sensory journey through the diverse landscapes that define the Iberian Peninsula. Explore the sun-drenched beaches of the Costa del Sol, where the golden sands meet the turquoise waters of the Mediterranean. Traverse the rugged beauty of the Pyrenees, with their majestic peaks and verdant valleys. Marvel at the breathtaking cliffs of the Algarve, where dramatic cliffs plunge into the azure Atlantic Ocean. IberianLove invites you to discover the natural wonders that have inspired poets, artists, and explorers throughout history.</p><p>Indulge in the flavors of Spain and Portugal, where culinary traditions are elevated to an art form. From savoring the delectable tapas of Andalusia to relishing the freshly caught seafood delicacies of Galicia, each bite will transport you to a world of bold flavors and gastronomic delights. Sample the world-renowned wines of Rioja and the port wines of Porto, experiencing firsthand the passion and craftsmanship that go into creating these liquid treasures.</p><p>Uncover the stories that shaped the history of the Iberian Peninsula. Wander through the narrow streets of historic cities such as Barcelona, Madrid, Lisbon, and Porto, where ancient architecture stands side by side with modern innovation. Explore the imposing castles, magnificent cathedrals, and ornate palaces that bear witness to centuries of rich heritage.</p><p>Immerse yourself in the warmth and hospitality of the Iberian people, known for their vibrant spirit and zest for life. Engage with the locals, join in the festive celebrations, and experience the true meaning of \"fiesta\" as you dance the night away in lively squares and hidden taverns.</p><p>Whether you're drawn to the breathtaking landscapes, the rich history, the vibrant cultures, or the mouthwatering cuisine, IberianLove invites you to embrace the passion and beauty of Spain and Portugal. Let us be your guide as you uncover the hidden gems, unravel the stories, and fall in love with the Iberian Peninsula in all its captivating glory.</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-d",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "36",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#a38f84",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1-torremolinos-costa-del-sol-malaga-andalucia-spain-2000x3000-800x1200.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ART-POSTER<br>TORREMOLINOS- Málaga",
+          "text": "<p>Torremolinos, a vibrant coastal paradise that captivates visitors with its picturesque beauty and lively atmosphere. Nestled along the sun-kissed shores of the Costa del Sol in Southern Spain, Torremolinos offers an irresistible blend of traditional charm and modern allure.  Immerse yourself in the Mediterranean allure as you stroll along the golden beaches and feel the warm sand between your toes. The azure waters beckon you for a refreshing swim or a thrilling water sport adventure. Torremolinos' coastline boasts a vibrant energy, with beach clubs, bustling promenades, and a lively nightlife that keeps the fun going long after the sun sets. Beyond the captivating beaches, Torremolinos unveils a rich history and cultural heritage. Explore the narrow streets of the charming Old Town, where whitewashed houses adorned with vibrant flowers transport you back in time. Discover hidden corners, quaint squares, and delightful tapas bars serving up mouthwatering local delicacies.</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "13px"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-f"
+        }
+      ]
+    }
+  }
+}
