@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "artgalleryhubonline",
-    "currentPage": "TORREMOLINOS- Malaga - Spain.html",
+    "currentPage": "SIROTONINE.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 35,
+    "uniqCompNum": 44,
     "versionPublish": "4.9.6"
   },
   "pages": {
@@ -121,7 +121,7 @@
             "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "2",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -159,7 +159,7 @@
             }
           },
           "title1": "IBERIANLOVE",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "As a photographer and designer, I blend my artistic vision with the raw beauty of Spain and Portugal, creating visual stories that celebrate the rich cultures, diverse architecture, and breathtaking vistas. With every journey, I seek to share the captivating essence of this region, inviting others to embark on their own visual adventures.",
           "button1": "<a data-app-btn=\"true\" href=\"IBERIANLOVE.html#image1-h\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE MORE<br></a>",
           "media2": {
             "image": {
@@ -181,15 +181,18 @@
               "size": 0
             }
           },
-          "title2": "MYSTERIOUSWORLD",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "MIAFLOWER",
+          "caption2": "As a fashion enthusiast, I find joy in exploring the ever-evolving world of style. With a keen eye for trends and a love for self-expression, I embrace fashion as a form of art. Whether it's experimenting with different looks or keeping up with the latest runway shows, I am constantly inspired by the transformative power of clothing and accessories.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/harryposter-600x200.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -202,14 +205,18 @@
             }
           },
           "title3": "HARRYPOSTER",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "I'm an Educator with a passion for beauty and creativity, who uses posters as a pedagogical tool to convey my knowledge and skills in an attractive and accessible visual format for my students. I like to combine my love for art and teaching to create unique teaching materials. I hope you enjoy it.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/smallheadersirotonine-600x200.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "SIROTONINE.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -221,15 +228,18 @@
               "size": 0
             }
           },
-          "title4": "ILOVEITALY",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title4": "SIRTONINE",
+          "caption4": "I am a traveling artist, traversing the globe in search of the most picturesque and awe-inspiring locations. With a paintbrush in hand, I capture the essence of beautiful landscapes, cities, and the wonders of nature on my canvases. From majestic mountains to serene seascapes, my artwork reflects the diverse beauty that this world has to offer.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/cubiktree-600x200.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -241,15 +251,18 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title5": "CUBIKTREE",
+          "caption5": "Nature and animals are my passions, they are always a good reason to be alive in this crazy world.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
               "active": true,
-              "src": "images/host.png",
+              "src": "@PROJECT_PATH@/assets/images/waltercolour-600x200.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -261,8 +274,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "WALTERCOLOUR",
+          "caption6": "An artist passionate about watercolors and digital art that combines primitive elements with current trends in shapes and colors to create a unique and attractive style.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Tema"
@@ -272,6 +285,9 @@
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "font-size": "25px"
+            },
+            "P": {
+              "font-size": "12px"
             }
           }
         }
@@ -383,7 +399,7 @@
           "title": "TORREMOLINOS",
           "meta": "MÁLAGA- ANDALUSIA- SPAIN",
           "text": "<p>Experience the essence of the Mediterranean in Torremolinos, where every moment is filled with joy, beauty, and the promise of unforgettable experiences. Let the warmth of the sun and the rhythm of the sea guide you as you explore this enchanting coastal gem on the Costa del Sol.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE +</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"TORREMOLINOS- Malaga - Spain.html#content1-x\" data-toolbar=\"-mbrBtnMove\">MORE +</a>",
           "_tags": [
             "Tema"
           ],
@@ -399,7 +415,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -445,7 +461,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -460,7 +476,7 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/1-torremolinos-costa-del-sol-malaga-andalucia-spain-2000x3000-800x1200.jpg",
-              "link": "https://www.posters.es/marketplace/torremolinos-malaga-coastal-town-vibrant-and-colorful-v126591/?affil=IBERIANLOVE10",
+              "link": "https://www.posters.es/marketplace/torremolinos-malaga-coastal-town-vibrant-and-colorful-v126591?affil=IBERIANLOVE10",
               "alt": "TORREMOLINOS - Málaga | Coastal town, Vibrant and colorful",
               "title": "TORREMOLINOS - Málaga | Coastal town, Vibrant and colorful",
               "linkInNewWindow": false
@@ -478,7 +494,7 @@
             }
           },
           "title": "TORREMOLINOS- Málaga<br>",
-          "text": "<p>Immerse yourself in the Mediterranean allure as you stroll along the golden beaches and feel the warm sand between your toes. The azure waters beckon you for a refreshing swim or a thrilling water sport adventure. Torremolinos' coastline boasts a vibrant energy, with beach clubs, bustling promenades, and a lively nightlife that keeps the fun going long after the sun sets.</p>",
+          "text": "<p>Art and culture thrive in Torremolinos, with numerous galleries, exhibitions, and art festivals that showcase the region's creative spirit. Whether you're an art aficionado or simply appreciate the aesthetic beauty, you'll find yourself immersed in a world of color and inspiration.<br></p>",
           "_tags": [
             "Tema"
           ],
@@ -499,12 +515,12 @@
           },
           "headerAlign": "left",
           "meta": "ARTWORK - POSTER",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.posters.es/marketplace/torremolinos-malaga-coastal-town-vibrant-and-colorful-v126591/?affil=IBERIANLOVE10\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.posters.es/marketplace/torremolinos-malaga-coastal-town-vibrant-and-colorful-v126591?affil=IBERIANLOVE10\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-f"
         },
         {
-          "text": "<p>Art and culture thrive in Torremolinos, with numerous galleries, exhibitions, and art festivals that showcase the region's creative spirit. Whether you're an art aficionado or simply appreciate the aesthetic beauty, you'll find yourself immersed in a world of color and inspiration.</p><p><br></p><p>For those seeking adventure, Torremolinos offers a multitude of outdoor activities. Embark on scenic hikes along the rugged cliffs or venture into the nearby Sierra de las Nieves Natural Park, a haven for nature lovers and outdoor enthusiasts. Uncover breathtaking vistas, lush landscapes, and a diverse array of flora and fauna that will leave you in awe.</p>",
+          "text": "<p>Immerse yourself in the Mediterranean allure as you stroll along the golden beaches and feel the warm sand between your toes. The azure waters beckon you for a refreshing swim or a thrilling water sport adventure. Torremolinos' coastline boasts a vibrant energy, with beach clubs, bustling promenades, and a lively nightlife that keeps the fun going long after the sun sets.</p><p>Art and culture thrive in Torremolinos, with numerous galleries, exhibitions, and art festivals that showcase the region's creative spirit. Whether you're an art aficionado or simply appreciate the aesthetic beauty, you'll find yourself immersed in a world of color and inspiration.</p><p><br></p><p>For those seeking adventure, Torremolinos offers a multitude of outdoor activities. Embark on scenic hikes along the rugged cliffs or venture into the nearby Sierra de las Nieves Natural Park, a haven for nature lovers and outdoor enthusiasts. Uncover breathtaking vistas, lush landscapes, and a diverse array of flora and fauna that will leave you in awe.</p>",
           "_tags": [
             "Tema"
           ],
@@ -541,10 +557,9 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/torremolinos-2a-867x1300.jpg",
-              "link": "https://www.posters.es/marketplace/torremolinos-costa-del-sol-malaga-seaside-charm-v126592/?affil=IBERIANLOVE10",
+              "link": "https://www.posters.es/marketplace/torremolinos-costa-del-sol-malaga-seaside-charm-v126592?affil=IBERIANLOVE10",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -558,7 +573,7 @@
               "size": 0
             }
           },
-          "title": "TORREMOLINOS- Costa del Sol",
+          "title": "<a href=\"https://www.posters.es/marketplace/torremolinos-costa-del-sol-malaga-seaside-charm-v126592?affil=IBERIANLOVE10\">TORREMOLINOS- Costa del Sol</a>",
           "text": "<p>Torremolinos embraces visitors with its warm hospitality and friendly ambiance. Whether you're here for a relaxing beach getaway, an immersive cultural experience, or an adventure-filled escape, Torremolinos invites you to create lasting memories against a backdrop of sun, sea, and a vibrant coastal lifestyle.</p>",
           "_tags": [
             "Tema"
@@ -576,7 +591,7 @@
           },
           "headerAlign": "left",
           "meta": "ARTWORK - POSTER",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.posters.es/marketplace/torremolinos-costa-del-sol-malaga-seaside-charm-v126592?affil=IBERIANLOVE10\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-w"
         },
@@ -599,6 +614,333 @@
             }
           },
           "_anchor": "header3-v"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "TORREMOLINOS, Málaga, Spain",
+              "placeId": "ChIJSQOsrJL7cg0RiVeIo0vc_gc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-10"
+        }
+      ]
+    },
+    "SIROTONINE.html": {
+      "settings": {
+        "title": "SIROTONINE",
+        "meta_descr": "SIROTONINE",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/smallheadersirotonine-1350x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-h"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "SIROTONINE",
+          "meta": "I am a traveling artist, traversing the globe in search of the most picturesque and awe-inspiring locations.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "text": "<p>&nbsp;With a paintbrush in hand, I capture the essence of beautiful landscapes, cities, and the wonders of nature on my canvases. From majestic mountains to serene seascapes, my artwork reflects the diverse beauty that this world has to offer. Through my paintings, I aim to transport viewers to these enchanting destinations, inviting them to immerse themselves in the magic of each place I've encountered on my artistic journey.</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-d",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-16"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "AUSTRIA",
+          "meta": "The landscapes of Austria are captivating and majestic, with stunning mountains, crystal-clear lakes, and charming valleys.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/176b40d5-a5e8-45ab-b600-54e405789db1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/176b40d5-a5e8-45ab-b600-54e405789db1-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/70ea9dee-94b4-4208-b4b7-74f7621df594-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/70ea9dee-94b4-4208-b4b7-74f7621df594-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/792c92dd-8721-4365-bedb-7324b041f0e2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/792c92dd-8721-4365-bedb-7324b041f0e2-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/44b6d8e4-3a16-4d18-9da5-e61769c145be-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/44b6d8e4-3a16-4d18-9da5-e61769c145be-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-11"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "JAPAN",
+          "meta": "The landscapes of Japan are diverse and breathtaking, featuring serene cherry blossom gardens, majestic Mount Fuji, picturesque bamboo forests, and tranquil traditional Japanese gardens.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-a-pagoda-with-mountains-in-d9c941cc-60fc-4ff2-8d0b-9026c138008d-1344x896.png",
+                "thumb": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-a-pagoda-with-mountains-in-d9c941cc-60fc-4ff2-8d0b-9026c138008d-1344x896-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-mountains-and-a-temple-in-307de473-f2f4-4332-b32c-bdee0485fce9-1344x896.png",
+                "thumb": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-mountains-and-a-temple-in-307de473-f2f4-4332-b32c-bdee0485fce9-1344x896-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-mountains-and-a-temple-in-ef9aea1a-e151-40dc-8106-483eac08bf9b-1344x896.png",
+                "thumb": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-mountains-and-a-temple-in-ef9aea1a-e151-40dc-8106-483eac08bf9b-1344x896-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-mountains-and-a-temple-in-a7064257-6e20-468d-8b52-9f7c25a9e545-1344x896.png",
+                "thumb": "@PROJECT_PATH@/assets/images/berlin-japanese-asian-landscape-with-mountains-and-a-temple-in-a7064257-6e20-468d-8b52-9f7c25a9e545-1344x896-800x533.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-13"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-17"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-12"
         }
       ]
     }

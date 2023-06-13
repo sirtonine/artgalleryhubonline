@@ -18,6 +18,9 @@
 #features1-g .mbr-section__col .mbr-header__text {
   font-size: 25px;
 }
+#features1-g P {
+  font-size: 12px;
+}
 #header3-a H3 {
   font-size: 36px;
 }
@@ -67,4 +70,32 @@
 }
 #header3-v P {
   font-size: 18px;
+}
+#header3-a H3 {
+  font-size: 36px;
+}
+#header3-a P {
+  font-size: 18px;
+}
+#content1-d P {
+  text-align: left;
+  font-size: 13px;
+}
+#msg-box1-16 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-16 .mbr-article {
+  color: #fff;
+}
+#msg-box2-17 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-17 .mbr-article {
+  color: #252525;
+}
+#msg-box1-12 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-12 .mbr-article {
+  color: #fff;
 }
