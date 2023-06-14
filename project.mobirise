@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "artgalleryhubonline",
-    "currentPage": "SIROTONINE.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 55,
+    "uniqCompNum": 58,
     "versionPublish": "4.9.6"
   },
   "pages": {
@@ -167,9 +167,10 @@
               "src": "@PROJECT_PATH@/assets/images/headerfashiondesigner-600x200.jpg",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "MIAFLOWER.html#image1-h",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -183,7 +184,7 @@
           },
           "title2": "MIAFLOWER",
           "caption2": "As a fashion enthusiast, I find joy in exploring the ever-evolving world of style. With a keen eye for trends and a love for self-expression, I embrace fashion as a form of art. Whether it's experimenting with different looks or keeping up with the latest runway shows, I am constantly inspired by the transformative power of clothing and accessories.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"MIAFLOWER.html#image1-h\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -206,7 +207,7 @@
           },
           "title3": "HARRYPOSTER",
           "caption3": "An Educator with a passion for beauty and creativity, who uses posters as a pedagogical tool to convey my knowledge and skills in an attractive and accessible visual format for my students. I like to combine my love for art and teaching to create unique teaching materials. I hope you enjoy it.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -230,7 +231,7 @@
           },
           "title4": "SIRTONINE",
           "caption4": "A traveling artist, traversing the globe in search of the most picturesque and awe-inspiring locations. With a paintbrush in hand, I capture the essence of beautiful landscapes, cities, and the wonders of nature on my canvases. From majestic mountains to serene seascapes, my artwork reflects the diverse beauty that this world has to offer.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"SIROTONINE.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">MORE +</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"SIROTONINE.html#image1-h\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -253,7 +254,7 @@
           },
           "title5": "CUBIKTREE",
           "caption5": "Nature and animals are my passions, they are always a good reason to be alive in this crazy world.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
           "media6": {
             "image": {
               "active": true,
@@ -276,7 +277,7 @@
           },
           "title6": "WALTERCOLOUR",
           "caption6": "An artist passionate about watercolors and digital art that combines primitive elements with current trends in shapes and colors to create a unique and attractive style.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
           "_tags": [
             "Tema"
           ],
@@ -415,7 +416,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -643,49 +644,9 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".btn": {
-              "font-size": "13px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3C3C3C",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ArtGalleryHub",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#header4-5\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-1i"
-        },
-        {
           "_params": {
             "showText": false,
-            "outside": false,
+            "outside": true,
             "bgColor": "#252525"
           },
           "media": {
@@ -1020,7 +981,7 @@
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/346319244-611767780915148-3950804059149057845-n-1-928x1280.jpg",
@@ -1062,6 +1023,536 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-1d"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-17"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-12"
+        }
+      ]
+    },
+    "MIAFLOWER.html": {
+      "settings": {
+        "title": "MIAFLOWER",
+        "meta_descr": "MIAFLOWER",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false,
+            "outside": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/headerfashiondesigner-600x200.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-h"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "MIAFLOWER",
+          "meta": "As a fashion enthusiast, I find joy in exploring the ever-evolving world of style.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "31",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/iconfashiondesigner-200x200.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "text": "<p>With a keen eye for trends and a love for self-expression, I embrace fashion as a form of art. Whether it's experimenting with different looks or keeping up with the latest runway shows, I am constantly inspired by the transformative power of clothing and accessories</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "font-size": "14px"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1g"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-16"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "FASHION",
+          "meta": "WOMEN BODIES INSPIRATIONAL IDEAS",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-34-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-34-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-33-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-33-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-27-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-27-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-37-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-37-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-35-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-35-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-15-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-15-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-26-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-26-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-36-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-36-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-20-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-20-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-31-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-31-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-21-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-21-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-40-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-40-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1k"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "FASHION",
+          "meta": "Women´s Bodies Beauty Fashion and Creativity",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-19-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-19-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-24-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-24-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-17-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-17-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-16-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-16-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-21-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-21-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-22-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-22-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-20-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-20-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-26-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-26-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-13-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-13-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-14-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-14-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-29-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-29-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-27-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-27-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-18-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-18-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-23-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-23-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-15-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-15-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catbird-image-25-512x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/catbird-image-25-512x768-512x768.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1l"
         },
         {
           "_inherit": "msg-box1",
