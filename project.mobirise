@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 44,
+    "uniqCompNum": 55,
     "versionPublish": "4.9.6"
   },
   "pages": {
@@ -205,7 +205,7 @@
             }
           },
           "title3": "HARRYPOSTER",
-          "caption3": "I'm an Educator with a passion for beauty and creativity, who uses posters as a pedagogical tool to convey my knowledge and skills in an attractive and accessible visual format for my students. I like to combine my love for art and teaching to create unique teaching materials. I hope you enjoy it.",
+          "caption3": "An Educator with a passion for beauty and creativity, who uses posters as a pedagogical tool to convey my knowledge and skills in an attractive and accessible visual format for my students. I like to combine my love for art and teaching to create unique teaching materials. I hope you enjoy it.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -229,8 +229,8 @@
             }
           },
           "title4": "SIRTONINE",
-          "caption4": "I am a traveling artist, traversing the globe in search of the most picturesque and awe-inspiring locations. With a paintbrush in hand, I capture the essence of beautiful landscapes, cities, and the wonders of nature on my canvases. From majestic mountains to serene seascapes, my artwork reflects the diverse beauty that this world has to offer.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "caption4": "A traveling artist, traversing the globe in search of the most picturesque and awe-inspiring locations. With a paintbrush in hand, I capture the essence of beautiful landscapes, cities, and the wonders of nature on my canvases. From majestic mountains to serene seascapes, my artwork reflects the diverse beauty that this world has to offer.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"SIROTONINE.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">MORE +</a>",
           "media5": {
             "image": {
               "active": true,
@@ -643,6 +643,46 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ArtGalleryHub",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#header4-5\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1i"
+        },
+        {
           "_params": {
             "showText": false,
             "outside": false,
@@ -691,18 +731,76 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "31",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cd0852db-8583-4fbd-837e-52fa784241dd-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DRAG AND DROP WEBSITE BUILDER",
           "text": "<p>&nbsp;With a paintbrush in hand, I capture the essence of beautiful landscapes, cities, and the wonders of nature on my canvases. From majestic mountains to serene seascapes, my artwork reflects the diverse beauty that this world has to offer. Through my paintings, I aim to transport viewers to these enchanting destinations, inviting them to immerse themselves in the magic of each place I've encountered on my artistic journey.</p>",
           "_tags": [
             "Tema"
           ],
-          "_name": "content1",
-          "_anchor": "content1-d",
           "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "13px"
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "font-size": "14px"
             }
-          }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1g"
         },
         {
           "_styles": {
@@ -866,6 +964,104 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-13"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "PARIS - France",
+          "meta": "The romantic landscapes of Paris are enchanting, with iconic landmarks like the Eiffel Tower, charming cobblestone streets, cozy cafés, and the scenic Seine River flowing through the heart of the city, creating an atmosphere of timeless love and beauty.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/9f5444a7-4ccd-417f-b7b6-9c62175da1a4-1-728x408.png",
+                "thumb": "@PROJECT_PATH@/assets/images/9f5444a7-4ccd-417f-b7b6-9c62175da1a4-1-728x408-728x408.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7517cf4c-6dae-4dca-a7f0-bfb2fb17789b-728x408.png",
+                "thumb": "@PROJECT_PATH@/assets/images/7517cf4c-6dae-4dca-a7f0-bfb2fb17789b-728x408-728x408.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1c"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/346319244-611767780915148-3950804059149057845-n-1-928x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/346319244-611767780915148-3950804059149057845-n-1-928x1280-800x1103.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/347823423-1069711313894048-591644067474949599-n-928x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/347823423-1069711313894048-591644067474949599-n-928x1280-800x1103.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/346833728-263820642850753-6984290553525189095-n-928x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/346833728-263820642850753-6984290553525189095-n-928x1280-800x1103.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/348302402-819783912898671-1372941507593049937-n-928x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/348302402-819783912898671-1372941507593049937-n-928x1280-800x1103.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1d"
         },
         {
           "_inherit": "msg-box1",

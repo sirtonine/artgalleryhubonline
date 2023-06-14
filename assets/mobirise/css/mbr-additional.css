@@ -71,15 +71,33 @@
 #header3-v P {
   font-size: 18px;
 }
+#msg-box1-1i .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-1i .mbr-article {
+  color: #fff;
+}
+#msg-box1-1i .btn {
+  font-size: 13px;
+}
 #header3-a H3 {
   font-size: 36px;
 }
 #header3-a P {
   font-size: 18px;
 }
-#content1-d P {
-  text-align: left;
-  font-size: 13px;
+#msg-box4-1g .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1g .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1g .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1g .mbr-article P {
+  color: #000000;
+  font-size: 14px;
 }
 #msg-box1-16 .mbr-header .mbr-header__text {
   color: #fff;
